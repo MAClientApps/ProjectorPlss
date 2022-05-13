@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/wild_animals"
+            android:icon="@drawable/wild_animals"
+            android:title="@string/wild_animals" />
+        <item
+            android:id="@+id/tourist_place"
+            android:icon="@drawable/touristic_places"
+            android:title="@string/touristic_places" />
+        <item
+            android:id="@+id/heavy_fails"
+            android:icon="@drawable/extreme_fails"
+            android:title="@string/heavy_fails" />
+        <item
+            android:id="@+id/wow_environment"
+            android:icon="@drawable/ic_wow_environment"
+            android:title="@string/wow_environment" />
+        <item
+            android:id="@+id/how_it_works"
+            android:icon="@drawable/ic_how_it_works"
+            android:title="@string/how_it_works" />
+        <item
+            android:id="@+id/action_sports"
+            android:icon="@drawable/ic_action_sports"
+            android:title="@string/action_sports" />
+
+        <item
+            android:id="@+id/under_water_life"
+            android:icon="@drawable/ic_underwater_life"
+            android:title="@string/under_water_life" />
+        <item
+            android:id="@+id/foot_pop"
+            android:icon="@drawable/ic_foot_pop"
+            android:title="@string/foot_pop" />
+    </group>
+
+
+</menu>

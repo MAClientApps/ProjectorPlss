@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Projector+</string>
+    <string name="app_scheme">projectorpls</string>
+
+    <string name="navigation_open">Open navigation drawer</string>
+    <string name="navigation_close">Close navigation drawer</string>
+    <string name="wow_environment">Wow Environment</string>
+    <string name="wild_animals">Wild Animal</string>
+    <string name="under_water_life">Underwater Life</string>
+    <string name="touristic_places">Tourist Places</string>
+    <string name="how_it_works">How It Works</string>
+    <string name="foot_pop">Foot Pop</string>
+    <string name="action_sports">Action Sports</string>
+    <string name="heavy_fails">Heavy Fails</string>
+    <string name="video_error">This Video is not supported.</string>
+    <string name="no_internet_conn">No Internet Connection</string>
+    <string name="check_your_con_msg">Please check your Internet connection and try again</string>
+    <string name="btn_retry">Try Again</string>
+</resources>
